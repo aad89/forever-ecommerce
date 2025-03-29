@@ -1,7 +1,7 @@
 import validator from 'validator'
 import userModel from './../models/userModel.js';
 import jwt from 'jsonwebtoken'
-import bcrypt from 'bcrypt'
+import bcrypt from 'bcryptjs'
 
 
 const createToken = (id)=>{
@@ -53,8 +53,8 @@ const registerUser = async(req,res)=>{
         }
 
         //hashing password
-        const salt = await bcrypt.genSalt(10);
-        const hashedPassword = await bcrypt.hash(password, salt);
+        
+        const hashedPassword = await bcrypt.hash(password, 10);
 
         const newUser = new userModel({
             name,
