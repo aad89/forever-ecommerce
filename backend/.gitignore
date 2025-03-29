@@ -1,0 +1,7 @@
+# Ignore the .env file
+.env
+
+# Ignore other common files/folders
+node_modules/
+*.log
+*.tmp
