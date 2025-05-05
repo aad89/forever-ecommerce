@@ -40,7 +40,7 @@ Hosting: Render (Frontend & Backend)
 
 
 
- **Live Site**
+ **🔗 Live Site**
 
 Check out the live website: [Live Site](https://forever-ecommerce-frontend-1g9e.onrender.com)
 
