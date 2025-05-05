@@ -39,7 +39,8 @@ Hosting: Render (Frontend & Backend)
 
 🔗 Live Site
 
-💻 Key Skills Demonstrated
+**💻 Key Skills Demonstrated**
+
 Full-stack JavaScript development
 
 REST API architecture and CRUD operations
