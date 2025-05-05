@@ -1,9 +1,11 @@
-Forever eCommerce 🛒
+**Forever eCommerce 🛒**
+
 Personal MERN Stack Project – Full-Stack eCommerce Platform
 
 Forever is a fully functional eCommerce web application built using the MERN stack. I developed this project to demonstrate my full-stack web development skills, including RESTful API design, secure authentication, admin dashboards, payment integration, and responsive UI design.
 
-🚀 Project Highlights
+**🚀 Project Highlights**
+
 Full-Stack MERN Application: Built from scratch using MongoDB, Express.js, React.js, and Node.js.
 
 Authentication & Authorization: Implemented user login/registration and role-based access control with JWT.
@@ -20,7 +22,8 @@ State Management: Utilized React Context API and custom hooks for efficient stat
 
 Responsive UI: Built mobile-first, responsive components using Tailwind CSS.
 
-🔧 Technologies Used
+**🔧 Technologies Used**
+
 Frontend: React.js, Tailwind CSS, Axios
 
 Backend: Node.js, Express.js, MongoDB, Mongoose
@@ -33,7 +36,7 @@ Payments: Stripe API, Razorpay
 
 Hosting: Render (Frontend & Backend)
 
-🌐 Live Demo
+
 🔗 Live Site
 
 💻 Key Skills Demonstrated
