@@ -32,11 +32,6 @@ Authentication: JSON Web Tokens (JWT), bcrypt
 
 Cloud & Media: Cloudinary, Multer
 
-Payments: Stripe API, Razorpay
-
-Hosting: Render (Frontend & Backend)
-
-
 
 
 
